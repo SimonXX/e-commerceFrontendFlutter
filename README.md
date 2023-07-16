@@ -45,7 +45,11 @@ Il codice sorgente dell'applicazione è organizzato in diversi package:
   <img src="imagesREADME/login_view.png" alt="Descrizione alternativa" width="400" />
 </p>
 
+## Registration
 
+<p>
+  <img src="imagesREADME/registration.png" alt="Descrizione alternativa" width="400" />
+</p>
 
 ## User View
 
